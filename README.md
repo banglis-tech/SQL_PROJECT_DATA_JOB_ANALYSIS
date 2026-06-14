@@ -156,6 +156,7 @@ Here is the breakdown fo the results for top paying skills for Data Analysts:
 
 ### Visualization
 ![High Compensation Premium Skills](image-2.png)
+
 *Table of the high compensation premium skills to have*
 ### Key Highlights:
 - **Data Engineering Crossover:**
